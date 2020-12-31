@@ -229,7 +229,7 @@ body{
      animation:animate 10s linear forwards;
 }
 .loading .bar::after{
-    content:"Loading...";
+    content:"";
     position: absolute;
     top:0;
     left:0;
